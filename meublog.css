@@ -1,0 +1,28 @@
+body{
+    background-color: darkgray;
+}
+
+.nome{
+    text-align: center;
+}
+
+.primeiros {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.ultimos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+
+.comentarios{
+    text-align: center;
+}
